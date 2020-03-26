@@ -206,7 +206,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="41"/>
         <source>This desktop is powered by coffee, coffee, and more coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation type="咖啡是写出这个桌面的动力，需要咖啡，而且要更多"></translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="43"/>
@@ -216,7 +216,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="45"/>
         <source>There is a full handbook of information about the desktop available online.</source>
-        <translation type="unfinished"></translation>
+        <translation type="可以在线查阅完整的桌面手册"></translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="47"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="49"/>
         <source>Lumina can easily reproduce the interface from most other desktop environments.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Lumina可以轻松地重现大多数其他桌面环境"></translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="51"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="../BootSplash.cpp" line="53"/>
         <source>I have never been hurt by what I have not said</source>
-        <translation type="unfinished"></translation>
+        <translation type="我从来不说伤害自己的话"></translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="55"/>
         <source>Gotta have more cowbell!</source>
-        <translation type="unfinished"></translation>
+        <translation type="必须更要"></translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="57"/>
