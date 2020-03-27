@@ -112,17 +112,17 @@
     <message>
         <location filename="../MainUI.ui" line="193"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;f文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="207"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;v查看</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="236"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;e编辑</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="274"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../MainUI.ui" line="434"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="437"/>
@@ -264,12 +264,12 @@
     <message>
         <location filename="../MainUI.ui" line="448"/>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示工具栏</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="34"/>
         <source>Read-Only File</source>
-        <translation type="unfinished"></translation>
+        <translation>只读文件</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="75"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../MainUI.cpp" line="290"/>
         <source>Print Content</source>
-        <translation type="unfinished"></translation>
+        <translation>打印内容</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="428"/>
@@ -312,7 +312,7 @@ Do you want to close it anyway?
     <message>
         <location filename="../MainUI.cpp" line="546"/>
         <source>Save Changes before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>保存更改并关闭</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="547"/>
@@ -320,7 +320,10 @@ Do you want to close it anyway?
 Do you want save them before you close the editor?
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>有未保存的更改.
+       您要在关闭编辑器之前保存它们吗?
+
+%1</translation>
     </message>
 </context>
 <context>
