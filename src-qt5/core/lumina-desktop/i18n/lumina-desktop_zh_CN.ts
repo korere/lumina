@@ -206,7 +206,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="41"/>
         <source>This desktop is powered by coffee, coffee, and more coffee.</source>
-        <translation type="咖啡是写出这个桌面的动力，需要咖啡，而且要更多"></translation>
+        <translation>咖啡是写出这个桌面的动力，需要咖啡，而且要更多</translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="43"/>
@@ -216,7 +216,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="45"/>
         <source>There is a full handbook of information about the desktop available online.</source>
-        <translation type="可以在线查阅完整的桌面手册"></translation>
+        <translation>可以在线查阅完整的桌面手册</translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="47"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../BootSplash.cpp" line="49"/>
         <source>Lumina can easily reproduce the interface from most other desktop environments.</source>
-        <translation type="Lumina可以轻松地重现大多数其他桌面环境"></translation>
+        <translation>Lumina可以轻松地重现大多数其他桌面环境</translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="51"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="../BootSplash.cpp" line="53"/>
         <source>I have never been hurt by what I have not said</source>
-        <translation type="我从来不说伤害自己的话"></translation>
+        <translation>我从来不说伤害自己的话</translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="55"/>
         <source>Gotta have more cowbell!</source>
-        <translation type="必须更要"></translation>
+        <translation>必须有亮点</translation>
     </message>
     <message>
         <location filename="../BootSplash.cpp" line="57"/>
@@ -773,24 +773,24 @@
     <message>
         <location filename="../LDesktop.cpp" line="255"/>
         <source>Desktop Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面动作</translation>
     </message>
     <message>
         <location filename="../LDesktop.cpp" line="257"/>
         <location filename="../LDesktop.cpp" line="636"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件夹</translation>
     </message>
     <message>
         <location filename="../LDesktop.cpp" line="258"/>
         <location filename="../LDesktop.cpp" line="656"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件</translation>
     </message>
     <message>
         <location filename="../LDesktop.cpp" line="259"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <location filename="../LDesktop.cpp" line="291"/>
@@ -835,7 +835,7 @@
     <message>
         <location filename="../panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="19"/>
         <source>Workspace 1</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面1</translation>
     </message>
     <message>
         <location filename="../panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="135"/>
@@ -879,7 +879,7 @@
     <message>
         <location filename="../panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
@@ -1434,17 +1434,17 @@
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.ui" line="1017"/>
         <source>Update and Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>升级并重启</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.ui" line="1042"/>
         <source>Power Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关机</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.ui" line="1061"/>
         <source>(System Preparing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(系统准备更新)</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.ui" line="1090"/>
@@ -1474,12 +1474,12 @@
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.cpp" line="291"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.cpp" line="292"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../panel-plugins/systemstart/StartMenu.cpp" line="293"/>
@@ -1529,17 +1529,17 @@
     <message>
         <location filename="../SystemWindow.ui" line="100"/>
         <source>Power Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关机</translation>
     </message>
     <message>
         <location filename="../SystemWindow.ui" line="145"/>
         <source>Update Now</source>
-        <translation type="unfinished"></translation>
+        <translation>现在更新</translation>
     </message>
     <message>
         <location filename="../SystemWindow.ui" line="167"/>
         <source>Updates ready to install</source>
-        <translation type="unfinished"></translation>
+        <translation>准备好更新安装</translation>
     </message>
     <message>
         <location filename="../SystemWindow.ui" line="205"/>
@@ -1570,12 +1570,12 @@
     <message>
         <location filename="../SystemWindow.cpp" line="61"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../SystemWindow.cpp" line="62"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
 </context>
 <context>
@@ -1606,7 +1606,7 @@
     <message>
         <location filename="../panel-plugins/userbutton/UserWidget.ui" line="14"/>
         <source>UserWidget</source>
-        <translation>用户的Widget</translation>
+        <translation>用户的小部件</translation>
     </message>
     <message>
         <location filename="../panel-plugins/userbutton/UserWidget.ui" line="24"/>
@@ -1842,12 +1842,12 @@
     <message>
         <location filename="../../libLumina/LuminaXDG.cpp" line="619"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>wine</translation>
     </message>
     <message>
         <location filename="../../libLumina/LuminaXDG.cpp" line="620"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>没分类</translation>
     </message>
 </context>
 </TS>
