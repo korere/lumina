@@ -6,22 +6,22 @@
     <message>
         <location filename="../TarBackend.cpp" line="243"/>
         <source>Could not read archive</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取存档</translation>
     </message>
     <message>
         <location filename="../TarBackend.cpp" line="245"/>
         <source>Archive Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>存档以加载</translation>
     </message>
     <message>
         <location filename="../TarBackend.cpp" line="278"/>
         <source>Extraction Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>提取完成</translation>
     </message>
     <message>
         <location filename="../TarBackend.cpp" line="280"/>
         <source>Modification Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>修改完成</translation>
     </message>
 </context>
 <context>
@@ -29,123 +29,123 @@
     <message>
         <location filename="../MainUI.ui" line="35"/>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>保存:</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="69"/>
         <location filename="../MainUI.cpp" line="331"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="125"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;f文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="134"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;e编辑</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="145"/>
         <source>&amp;Burn to Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;b写进硬盘</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="178"/>
         <source>&amp;Open Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;o打开存档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="181"/>
         <source>Open archive</source>
-        <translation type="unfinished"></translation>
+        <translation>打开存档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="186"/>
         <source>&amp;New Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;n新建存档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="189"/>
         <source>New archive</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="194"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;q退出</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="199"/>
         <source>Add File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加文件(s)</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="202"/>
         <source>Add files to archive</source>
-        <translation type="unfinished"></translation>
+        <translation>将文件添加到存档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="207"/>
         <source>Remove File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除文件(s)</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="210"/>
         <source>Remove selection from archive</source>
-        <translation type="unfinished"></translation>
+        <translation>删除选中的文档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="215"/>
         <source>Extract All</source>
-        <translation type="unfinished"></translation>
+        <translation>解压</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="218"/>
         <source>Extract archive into a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>解压到目录</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="223"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>添加目录</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="226"/>
         <source>Add directory to archive</source>
-        <translation type="unfinished"></translation>
+        <translation>将文件夹添加到存档</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="231"/>
         <source>Extract Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>解压到</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="234"/>
         <source>Extract Selected Items</source>
-        <translation type="unfinished"></translation>
+        <translation>全部解压</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="239"/>
         <source>USB Image</source>
-        <translation type="unfinished"></translation>
+        <translation>usb 镜像</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="242"/>
         <source>Copy an IMG to a USB device (may require admin permission)</source>
-        <translation type="unfinished"></translation>
+        <translation>复制img到usb驱动器(可能要管理员权限)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="28"/>
         <source>Archive Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>存档管理</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="29"/>
         <source>Admin Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>管理员模式</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="55"/>
@@ -171,78 +171,78 @@
         <location filename="../MainUI.cpp" line="69"/>
         <location filename="../MainUI.cpp" line="331"/>
         <source>MimeType</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="69"/>
         <location filename="../MainUI.cpp" line="331"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="94"/>
         <location filename="../MainUI.cpp" line="236"/>
         <source>Opening Archive...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文档...</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="180"/>
         <source>All Types %1</source>
-        <translation type="unfinished"></translation>
+        <translation>所有类型 %1</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="181"/>
         <location filename="../MainUI.cpp" line="199"/>
         <source>Uncompressed Archive (*.tar)</source>
-        <translation type="unfinished"></translation>
+        <translation>未压缩文档 (*.tar)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="182"/>
         <location filename="../MainUI.cpp" line="200"/>
         <source>GZip Compressed Archive (*.tar.gz *.tgz)</source>
-        <translation type="unfinished"></translation>
+        <translation>GZIP压缩文档 (*.tar.gz *.tgz)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="183"/>
         <location filename="../MainUI.cpp" line="201"/>
         <source>BZip Compressed Archive (*.tar.bz *.tbz)</source>
-        <translation type="unfinished"></translation>
+        <translation>BZIP压缩文档 (*.tar.bz *.tbz)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="184"/>
         <location filename="../MainUI.cpp" line="202"/>
         <source>BZip2 Compressed Archive (*.tar.bz2 *.tbz2)</source>
-        <translation type="unfinished"></translation>
+        <translation>BZIP2压缩文档 (*.tar.bz2 *.tbz2)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="185"/>
         <location filename="../MainUI.cpp" line="204"/>
         <source>LMZA Compressed Archive (*.tar.lzma *.tlz)</source>
-        <translation type="unfinished"></translation>
+        <translation>LMZA压缩文档 (*.tar.lzma *.tlz)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="186"/>
         <location filename="../MainUI.cpp" line="203"/>
         <source>XZ Compressed Archive (*.tar.xz *.txz)</source>
-        <translation type="unfinished"></translation>
+        <translation>XZ压缩文档 (*.tar.xz *.txz)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="187"/>
         <location filename="../MainUI.cpp" line="205"/>
         <source>CPIO Archive (*.cpio)</source>
-        <translation type="unfinished"></translation>
+        <translation>CPIO压缩文档 (*.cpio)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="188"/>
         <location filename="../MainUI.cpp" line="206"/>
         <source>PAX Archive (*.pax)</source>
-        <translation type="unfinished"></translation>
+        <translation>PAX压缩文档 (*.pax)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="189"/>
         <location filename="../MainUI.cpp" line="207"/>
         <source>AR Archive (*.ar)</source>
-        <translation type="unfinished"></translation>
+        <translation>AR压缩文档 (*.pax)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="190"/>
