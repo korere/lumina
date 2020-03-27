@@ -248,93 +248,93 @@
         <location filename="../MainUI.cpp" line="190"/>
         <location filename="../MainUI.cpp" line="208"/>
         <source>SHAR Archive (*.shar)</source>
-        <translation type="unfinished"></translation>
+        <translation>SHAR压缩文档 (*.shar)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="191"/>
         <location filename="../MainUI.cpp" line="209"/>
         <source>Zip Archive (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP压缩文档 (*.zip)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="192"/>
         <location filename="../MainUI.cpp" line="210"/>
         <source>7-Zip Archive (*.7z)</source>
-        <translation type="unfinished"></translation>
+        <translation>7-zip压缩文档 (*.7z)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="198"/>
         <source>All Known Types %1</source>
-        <translation type="unfinished"></translation>
+        <translation>全部已知类型 %1</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="211"/>
         <source>READ-ONLY: ISO image (*.iso *.img)</source>
-        <translation type="unfinished"></translation>
+        <translation>只读iOS镜像:(*.iso *.img)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="212"/>
         <source>READ-ONLY: XAR archive (*.xar)</source>
-        <translation type="unfinished"></translation>
+        <translation>只读XAR镜像:(*.xar)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="213"/>
         <source>READ-ONLY: Java archive (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>只读JAVA存档:(*.jar)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="214"/>
         <source>READ-ONLY: RedHat Package (*.rpm)</source>
-        <translation type="unfinished"></translation>
+        <translation>只读redhat镜像:(*.rpm)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="215"/>
         <source>Show All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>显示全部文件:(*)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="223"/>
         <source>Create Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>创建档案</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="226"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="226"/>
         <source>Could not overwrite file:</source>
-        <translation type="unfinished"></translation>
+        <translation>无法覆盖文件:</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="234"/>
         <source>Open Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>打开档案</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="242"/>
         <location filename="../MainUI.cpp" line="249"/>
         <source>Add to Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>增加档案</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="244"/>
         <location filename="../MainUI.cpp" line="251"/>
         <location filename="../MainUI.cpp" line="300"/>
         <source>Adding Items...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加项目...</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="262"/>
         <source>Removing Items...</source>
-        <translation type="unfinished"></translation>
+        <translation>删除项目...</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="267"/>
         <location filename="../MainUI.cpp" line="311"/>
         <source>Extract Into Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>解压到文件夹</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="269"/>
@@ -343,12 +343,12 @@
         <location filename="../MainUI.cpp" line="313"/>
         <location filename="../MainUI.cpp" line="325"/>
         <source>Extracting...</source>
-        <translation type="unfinished"></translation>
+        <translation>解压到...</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="345"/>
         <source>Link To: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>链接到: %1</translation>
     </message>
 </context>
 <context>
@@ -424,127 +424,127 @@
     <message>
         <location filename="../imgDialog.ui" line="14"/>
         <source>Burn IMG to device</source>
-        <translation type="unfinished"></translation>
+        <translation>烧录镜像到驱动器</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="29"/>
         <source>IMG File</source>
-        <translation type="unfinished"></translation>
+        <translation>img文件</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="54"/>
         <source>Block Size</source>
-        <translation type="unfinished"></translation>
+        <translation>块大小</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="84"/>
         <source>USB Device</source>
-        <translation type="unfinished"></translation>
+        <translation>usb驱动器</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="96"/>
         <source>Refresh Device List</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新驱动器列表</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="108"/>
         <source>Wipe all extra space on device (conv = sync)</source>
-        <translation type="unfinished"></translation>
+        <translation>清除驱动器所有额外空间(conv = sync)</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="132"/>
         <source>Burning to USB:</source>
-        <translation type="unfinished"></translation>
+        <translation>烧录usb:</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="166"/>
         <source>Time Elapsed:</source>
-        <translation type="unfinished"></translation>
+        <translation>用时:</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="222"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../imgDialog.ui" line="229"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>开始</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="21"/>
         <source>Burn IMG to Device</source>
-        <translation type="unfinished"></translation>
+        <translation>烧录到驱动器</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="22"/>
         <source>Admin Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>管理员模式</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="36"/>
         <source>Kilobyte(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>千字节(s)</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="37"/>
         <source>Megabyte(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>兆字节(s)</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="38"/>
         <source>Gigabyte(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>千兆字节(s)</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="110"/>
         <source>Cancel Image Burn?</source>
-        <translation type="unfinished"></translation>
+        <translation>取消烧录?</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="110"/>
         <source>Do you wish to stop the current IMG burn process?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想停止烧录镜像?</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="110"/>
         <source>Warning: This will leave the USB device in an inconsistent state</source>
-        <translation type="unfinished"></translation>
+        <translation>警告:卸载usb驱动器</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="170"/>
         <source>Administrator Permissions Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>需要管理员权限</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="170"/>
         <source>This operation requires administrator priviledges.</source>
-        <translation type="unfinished"></translation>
+        <translation>这要管理员权限.</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="170"/>
         <source>Would you like to enable these priviledges?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想开启超级权限?</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="175"/>
         <source>ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="175"/>
         <source>The process could not be completed:</source>
-        <translation type="unfinished"></translation>
+        <translation>过程无法完成:</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="178"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="178"/>
         <source>The image was successfully burned to the USB device</source>
-        <translation type="unfinished"></translation>
+        <translation>镜像成功烧录到usb驱动器</translation>
     </message>
 </context>
 </TS>
