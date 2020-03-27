@@ -1060,7 +1060,7 @@
     <message>
         <location filename="../mainWindow.cpp" line="132"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../mainWindow.cpp" line="133"/>
@@ -1959,17 +1959,17 @@
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="73"/>
         <source>Select Startup Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>选择启动声音</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="83"/>
         <source>Select Logout Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>选择注销声音</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="93"/>
         <source>Select Low Battery Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>选择低电量声音</translation>
     </message>
 </context>
 <context>
@@ -2109,7 +2109,7 @@
     <message>
         <location filename="../pages/page_wallpaper.cpp" line="156"/>
         <source>Image Directory: %1 valid images</source>
-        <translation type="unfinished"></translation>
+        <translation>图像文件夹: %1 valid images</translation>
     </message>
     <message>
         <location filename="../pages/page_wallpaper.cpp" line="176"/>
