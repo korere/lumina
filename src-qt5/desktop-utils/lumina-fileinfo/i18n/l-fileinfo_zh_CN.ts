@@ -59,57 +59,57 @@
         <location filename="../MainUI.ui" line="221"/>
         <location filename="../MainUI.cpp" line="232"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="235"/>
         <source>ZFS Pool:</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS池:</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="255"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="260"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="265"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>源</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="277"/>
         <source>Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>快照</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="282"/>
         <source>Date Created</source>
-        <translation type="unfinished"></translation>
+        <translation>数据已建立</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="287"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>数据已更改</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="617"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;f文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="621"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另保存为</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="649"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="652"/>
@@ -139,22 +139,22 @@
     <message>
         <location filename="../MainUI.ui" line="694"/>
         <source>Local Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>本地快捷方式</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="703"/>
         <source>Register Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>创建快捷方式</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="712"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件夹</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="721"/>
         <source>New Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>新建快捷方式</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="319"/>
@@ -261,7 +261,7 @@
         <location filename="../MainUI.cpp" line="413"/>
         <location filename="../MainUI.cpp" line="430"/>
         <source>XDG Shortcuts (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG.快捷方式(*.desktop)</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="461"/>
@@ -296,12 +296,12 @@
     <message>
         <location filename="../MainUI.cpp" line="516"/>
         <source>Valid Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>有效设置</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="516"/>
         <source>Invalid Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>无效设置</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="535"/>
