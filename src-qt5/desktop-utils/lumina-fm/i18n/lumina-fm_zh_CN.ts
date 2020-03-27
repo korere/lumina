@@ -119,7 +119,7 @@
     <message>
         <location filename="../widgets/DirWidget2.ui" line="41"/>
         <source> * - FILE MANAGER RUNNING AS ROOT- * </source>
-        <translation type="unfinished"></translation>
+        <translation>* - 以管理员身份运行文件管理器- *</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.ui" line="182"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../widgets/DirWidget2.ui" line="278"/>
         <source>Single Column</source>
-        <translation type="unfinished"></translation>
+        <translation>单列</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.ui" line="281"/>
@@ -237,7 +237,7 @@
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="289"/>
         <source>Open Current Dir in a Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>用终端打开当前目录</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="570"/>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="655"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>其他...</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="663"/>
@@ -324,12 +324,12 @@
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="297"/>
         <source>Archive Options</source>
-        <translation type="unfinished"></translation>
+        <translation>存档选项</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="320"/>
         <source>Open with...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开用...</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="326"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="567"/>
         <source>Set as Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>设置墙纸</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="575"/>
@@ -399,27 +399,27 @@
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="597"/>
         <source>Extract Here</source>
-        <translation type="unfinished"></translation>
+        <translation>提取到这里</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="599"/>
         <source>Archive Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>提取选项</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="907"/>
         <source>Select Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>选择档案</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="921"/>
         <source>Set Wallpaper on Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>设置屏幕墙纸</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.cpp" line="921"/>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕</translation>
     </message>
 </context>
 <context>
@@ -463,17 +463,17 @@
     <message>
         <location filename="../FODialog.cpp" line="133"/>
         <source>YesToAll</source>
-        <translation type="unfinished"></translation>
+        <translation>全是</translation>
     </message>
     <message>
         <location filename="../FODialog.cpp" line="134"/>
         <source>NoToAll</source>
-        <translation type="unfinished"></translation>
+        <translation>全不是</translation>
     </message>
     <message>
         <location filename="../FODialog.cpp" line="135"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../FODialog.cpp" line="154"/>
@@ -800,27 +800,27 @@ New Location: %2</source>
     <message>
         <location filename="../MainUI.ui" line="124"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;f文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="138"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;v查看</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="155"/>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;b书签</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="163"/>
         <source>&amp;External Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;e外部设备</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="170"/>
         <source>&amp;Git</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;g克隆</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="198"/>
