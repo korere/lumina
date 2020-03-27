@@ -782,12 +782,12 @@
     <message>
         <location filename="../pages/getPage.cpp" line="55"/>
         <source>Sound Themeing</source>
-        <translation type="unfinished"></translation>
+        <translation>声音主题</translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="55"/>
         <source>Change basic sound settings</source>
-        <translation type="unfinished"></translation>
+        <translation>改变基本声音设置</translation>
     </message>
     <message>
         <location filename="../pages/getPage.cpp" line="50"/>
@@ -950,67 +950,67 @@
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="608"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>多媒体</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="609"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>开发</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="610"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>教育</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="611"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="612"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>图像</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="613"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>网络</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="614"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>办公</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="615"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>科学</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="616"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="617"/>
         <source>System</source>
-        <translation type="unfinished">系统</translation>
+        <translation>系统</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="618"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>实用</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="619"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>wine</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="620"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>没分类</translation>
     </message>
 </context>
 <context>
@@ -1065,12 +1065,12 @@
     <message>
         <location filename="../mainWindow.cpp" line="133"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>不</translation>
     </message>
     <message>
         <location filename="../mainWindow.cpp" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1318,7 +1318,7 @@
     <message>
         <location filename="../pages/page_fluxbox_keys.ui" line="220"/>
         <source>View Syntax Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>查看语法代码</translation>
     </message>
     <message>
         <location filename="../pages/page_fluxbox_keys.ui" line="244"/>
@@ -1510,7 +1510,7 @@
     <message>
         <location filename="../pages/page_interface_panels.ui" line="46"/>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>面板</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.ui" line="96"/>
@@ -1525,17 +1525,17 @@
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="110"/>
         <source>No Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>没有面板</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="136"/>
         <source>Custom Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义配置文件</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="136"/>
         <source>Copy Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="143"/>
@@ -1545,18 +1545,18 @@
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="144"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="149"/>
         <location filename="../pages/page_interface_panels.cpp" line="204"/>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>创建个人配置</translation>
     </message>
     <message>
         <location filename="../pages/page_interface_panels.cpp" line="204"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名字:</translation>
     </message>
 </context>
 <context>
@@ -1647,7 +1647,7 @@
     <message>
         <location filename="../pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation>CType</translation>
+        <translation>C类型</translation>
     </message>
     <message>
         <location filename="../pages/page_session_locale.cpp" line="47"/>
@@ -1732,7 +1732,7 @@
     <message>
         <location filename="../pages/page_session_options.ui" line="220"/>
         <source>Window Manager</source>
-        <translation type="unfinished">窗口管理器</translation>
+        <translation>窗口管理器</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.ui" line="248"/>
@@ -1772,7 +1772,7 @@
     <message>
         <location filename="../pages/page_session_options.cpp" line="60"/>
         <source>Window manager</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口管理器</translation>
     </message>
     <message>
         <location filename="../pages/page_session_options.cpp" line="93"/>
@@ -1927,34 +1927,34 @@
         <location filename="../pages/page_soundtheme.ui" line="67"/>
         <location filename="../pages/page_soundtheme.ui" line="112"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="36"/>
         <location filename="../pages/page_soundtheme.ui" line="81"/>
         <location filename="../pages/page_soundtheme.ui" line="126"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>文字标签</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="56"/>
         <source>Set Startup Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>设置启动声音</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="101"/>
         <source>Set Logout Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>设置注销声音</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.ui" line="146"/>
         <source>Set Battery Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>设置电池声音</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="40"/>
         <source>Sound Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>声音主题</translation>
     </message>
     <message>
         <location filename="../pages/page_soundtheme.cpp" line="73"/>
