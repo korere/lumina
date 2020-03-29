@@ -119,7 +119,7 @@
     <message>
         <location filename="../widgets/DirWidget2.ui" line="41"/>
         <source> * - FILE MANAGER RUNNING AS ROOT- * </source>
-        <translation type="unfinished"></translation>
+        <translation>* - 以root身份运行的文件管理器- *</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.ui" line="182"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../widgets/DirWidget2.ui" line="278"/>
         <source>Single Column</source>
-        <translation type="unfinished"></translation>
+        <translation>单列</translation>
     </message>
     <message>
         <location filename="../widgets/DirWidget2.ui" line="281"/>
